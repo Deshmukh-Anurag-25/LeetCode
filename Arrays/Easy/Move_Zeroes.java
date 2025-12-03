@@ -1,4 +1,3 @@
-
 import java.util.Arrays;
 
 public class Move_Zeroes{
@@ -15,6 +14,10 @@ public class Move_Zeroes{
       }
     }
   }
+
+//Time Complexity = O(n)
+//Space Complexity = O(1)
+//This is the optimal solution
 
   public static void main(String[] args){
     Move_Zeroes obj1 = new Move_Zeroes();
