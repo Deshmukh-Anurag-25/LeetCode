@@ -9,4 +9,5 @@
 ## Strings(0/0)
 - [] ...
 
-
+## Bit Manipulation(1/50)
+- [X] 136. Single Number
