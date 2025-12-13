@@ -1,6 +1,6 @@
 # DSA Progress
 
-## Arrays(9/100)
+## Arrays(10/100)
 - [X] 283. Move Zeroes
 - [X] 1. Two Sum
 - [X] 27. Remove Element
@@ -10,6 +10,7 @@
 - [X] 238. Product of Array Except Self
 - [X] 217. Contains Duplicates
 - [X] 240. Search a 2D Matrix II
+- [X] 977. Squares of a Sorted Array
 
 ## Strings(0/0)
 - [] ...
