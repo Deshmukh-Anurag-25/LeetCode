@@ -1,6 +1,6 @@
 # DSA Progress
 
-## Arrays(10/100)
+## Arrays(11/100)
 - [X] 283. Move Zeroes
 - [X] 1. Two Sum
 - [X] 27. Remove Element
@@ -11,6 +11,7 @@
 - [X] 217. Contains Duplicates
 - [X] 240. Search a 2D Matrix II
 - [X] 977. Squares of a Sorted Array
+- [X] 121. Best Time to Buy and Sell Stock
 
 ## Strings(0/0)
 - [] ...
